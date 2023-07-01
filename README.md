@@ -1,27 +1,18 @@
-    this repo will be a mod for minecraft that will be used to overhail the whole
-system and all the is in minecraft from how you walk to how you interact with the 
-envirment. 
+    Intro: This is a rework of the minecraft software interaction and system a rework from top to bottom
+  on the system.
 
-Nether changes:
+    Version needs: 1.19.3 or better
 
-End changes:
+    API's needed: 
 
-New dimention:
+    Changes to base system: 
 
-weather changes:
+    new mobs:
 
-biome changes:
+      new boss:
+        kraken: lives in the sea and will attack any ships that cross does not come out unless certine
+          ceritera are met.
 
-new mobs and creatures:
+    
 
-new ways to tame animals:
 
-new interactions with viliiges:
-
-New look:
-
-Downloadable hear -->
-
-Adam Steinberg
-
-Date Finished --> 
